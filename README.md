@@ -1,2 +1,2 @@
 # gen
-Genetic algorithms solving knapsack problems
+Genetic Optimizations of Knapsack-Style Problems
